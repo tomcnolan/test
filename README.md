@@ -1,3 +1,3 @@
 # test
 
-hello star
+hello galaxy
